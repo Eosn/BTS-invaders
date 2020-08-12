@@ -1,5 +1,5 @@
 
-#Éllen Oliveira Silva Neves e Maria Gabriela Siqueira Tavares
+#Éllen Neves e Maria Gabriela Tavares
 #2º ano - Técnico em Informática Integrado ao Ensino Médio
 
 import os
